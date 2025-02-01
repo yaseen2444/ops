@@ -1,3 +1,9 @@
 1.create a git repo and clone it.
 2.create mycode.py and add code it will create a folder data folder and it contains csv file.
 3.do a git add commit push cant initializing dvc.
+#pip install dvc.
+4.now we will do "dvc init" (creates=.dvc folder and dvc ignore file)
+5.now do "mdir s3" (creates a new s3 directory)
+6.now do "dvc remote add -d myremote s3"
+7.next "dvc add data/".
+
