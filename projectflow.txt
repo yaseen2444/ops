@@ -1,0 +1,3 @@
+1.create a git repo and clone it.
+2.create mycode.py and add code it will create a folder data folder and it contains csv file.
+3.do a git add commit push cant initializing dvc.
