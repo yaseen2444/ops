@@ -14,11 +14,11 @@ new_row_loc = {'Name': 'GF1', 'Age': 20, 'City': 'City1'}
 df.loc[len(df.index)] = new_row_loc
 
 # # # Adding new row to df for V3
-new_row_loc2 = {'Name': 'GF2', 'Age': 30, 'City': 'City2'}
-df.loc[len(df.index)] = new_row_loc2
-## add
-new_row_loc3 = {'Name': 'GF3', 'Age': 31, 'City': 'City3'}
-df.loc[len(df.index)] = new_row_loc3
+# new_row_loc2 = {'Name': 'GF2', 'Age': 30, 'City': 'City2'}
+# df.loc[len(df.index)] = new_row_loc2
+# ## add
+# new_row_loc3 = {'Name': 'GF3', 'Age': 31, 'City': 'City3'}
+# df.loc[len(df.index)] = new_row_loc3git
 
 # Ensure the "data" directory exists at the root level
 data_dir = 'data'
